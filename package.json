@@ -1,0 +1,27 @@
+{
+  "name": "rails-migrations",
+  "version": "0.0.1",
+  "description": "Atom package to visualise the status of migrations in a ruby on rails project",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "atom": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sashman/rails-migrations.git"
+  },
+  "keywords": [
+    "atom",
+    "rails",
+    "migrations"
+  ],
+  "author": "sashman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sashman/rails-migrations/issues"
+  },
+  "homepage": "https://github.com/sashman/rails-migrations#readme"
+}
