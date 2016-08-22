@@ -1,0 +1,17 @@
+.circle {
+  width: 5px;
+  height: 5px;
+	border-radius: 50%;
+  background-color: green;
+
+}
+
+.icon-file-text[data-name$=".rb"]::after {
+  content: ' ';
+  height: 0;
+  width: 0;
+  margin: 5px;
+  margin-top: 8px;
+  position: fixed;
+  .circle;
+}
